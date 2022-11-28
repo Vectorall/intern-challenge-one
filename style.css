@@ -71,10 +71,18 @@ header h3 {
   border: none;
   border-radius: 5px;
   font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.button:hover {
+  color: peru;
 }
 
 .arrow-button {
   color: white;
   background: none;
   border: none;
+  text-transform: uppercase;
+  cursor: pointer;
 }
